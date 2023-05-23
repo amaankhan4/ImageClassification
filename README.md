@@ -1,4 +1,4 @@
-# ImageClassification
+# ImageRecognition
 #Library Used-
 #Tensorflow
 #Keras
